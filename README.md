@@ -1,17 +1,15 @@
 # Specifications
 
-![OpenCore for Z390D](https://github.com/antiden/opencore_z390d/blob/master/assets/info.jpg)
+![OpenCore for Z390D](https://github.com/antiden/opencore_z390d/blob/main/assets/info.jpg)
 
-```
-[Gigabyte Z390D](https://www.gigabyte.ru/products/page/mb/z390_d#kf) (Bios: F3h)
-Processor: Intel Core i5 3.6GHz 8600K (Coffee Lake, masked)
-Memory: 16GB 2400MHz DDR4
-SSD: Samsung 1Tb
-Audio: Steainberg UR12 (USB) + Creative X-Fi Titanium (PCI Express)
-Video: Radeon RX 570 8 GB
-Blutooth: ASUS USB-BT400
-Monitor: Dell 4K + LG 4K
-```
+- [Gigabyte Z390D](https://www.gigabyte.ru/products/page/mb/z390_d#kf) (Bios: F3h)
+- Processor: Intel Core i5 3.6GHz 8600K (Coffee Lake, masked)
+- Memory: 16GB 2400MHz DDR4
+- SSD: Samsung 1Tb
+- Audio: Steainberg UR12 (USB) + Creative X-Fi Titanium (PCI Express)
+- Video: Radeon RX 570 8 GB
+- Blutooth: ASUS USB-BT400
+- Monitor: Dell 4K + LG 4K
 
 All working. All updates working.
 
