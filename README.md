@@ -8,7 +8,7 @@
 - SSD: Samsung 1Tb
 - Audio: Steainberg UR12 (USB) + Creative X-Fi Titanium (PCI Express)
 - Video: Radeon RX 570 8GB
-- Bluetooth: ASUS USB-BT400
+- Bluetooth: ASUS USB-BT400 (Working with Kext)
 - Monitor: Dell 4K + LG 4K
 
 All working. All updates working.
@@ -16,7 +16,7 @@ All working. All updates working.
 **OpenCore Install Guide**
 
 - [OpenCore 0.7.4](https://github.com/acidanthera/OpenCorePkg/releases)
-- macOS 11.x BigSur
+- macOS 12.x Monterey
 - SMBIOS: iMac19,1
 
 ## Install
