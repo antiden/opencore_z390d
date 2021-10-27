@@ -8,7 +8,7 @@
 - SSD: Samsung 1Tb
 - Audio: Steainberg UR12 (USB) + Creative X-Fi Titanium (PCI Express)
 - Video: Radeon RX 570 8GB
-- Bluetooth: ASUS USB-BT400 (Working with Kext)
+- Bluetooth: ASUS USB-BT400
 - Monitor: Dell 4K + LG 4K
 
 All working. All updates working.
