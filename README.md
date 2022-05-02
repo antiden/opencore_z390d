@@ -5,7 +5,7 @@
 - [Gigabyte Z390D](https://www.gigabyte.ru/products/page/mb/z390_d#kf) (Bios: F3h)
 - Processor: Intel Core i5 3.6GHz 8600K (Coffee Lake, masked)
 - Memory: 16GB 2400MHz DDR4
-- SSD: Samsung 1Tb
+- SSD: Samsung EVO Plus NVMe M2 500Gb
 - Audio: Steainberg UR12 (USB) + Creative X-Fi Titanium (PCI Express)
 - Video: Radeon RX 570 8GB
 - Bluetooth: ASUS USB-BT400
