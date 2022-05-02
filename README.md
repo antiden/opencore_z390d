@@ -15,7 +15,7 @@ All working. All updates working.
 
 **OpenCore Install Guide**
 
-- [OpenCore 0.7.9](https://github.com/acidanthera/OpenCorePkg/releases)
+- [OpenCore 0.8.0](https://github.com/acidanthera/OpenCorePkg/releases)
 - macOS 12.x Monterey
 - SMBIOS: iMac19,1
 
