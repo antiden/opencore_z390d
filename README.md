@@ -15,8 +15,8 @@ All working. All updates working.
 
 **OpenCore Install Guide**
 
-- [OpenCore 0.8.4](https://github.com/acidanthera/OpenCorePkg/releases)
-- macOS 12.6 Monterey
+- [OpenCore 0.8.6](https://github.com/acidanthera/OpenCorePkg/releases)
+- macOS 13.0 Ventura
 - SMBIOS: iMac19,1
 
 ## Install
