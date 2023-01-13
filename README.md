@@ -2,7 +2,7 @@
 
 ![OpenCore for Z390D](https://github.com/antiden/opencore_z390d/blob/main/assets/info.jpg)
 
-- [Gigabyte Z390D](https://www.gigabyte.ru/products/page/mb/z390_d#kf) (Bios: F3h)
+- [Gigabyte Z390D](https://www.gigabyte.ru/products/page/mb/z390_d#kf) (Bios: F3)
 - Processor: Intel Core i5 3.6GHz 8600K (Coffee Lake, masked)
 - Memory: 16GB 2400MHz DDR4
 - SSD: Samsung EVO Plus NVMe M2 500Gb
@@ -15,8 +15,8 @@ All working. All updates working.
 
 **OpenCore Install Guide**
 
-- [OpenCore 0.8.6](https://github.com/acidanthera/OpenCorePkg/releases)
-- macOS 13.0 Ventura
+- [OpenCore 0.8.8](https://github.com/acidanthera/OpenCorePkg/releases)
+- macOS 13.1 Ventura
 - SMBIOS: iMac19,1
 
 ## Install
