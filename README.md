@@ -29,4 +29,4 @@ For minor hardware differences, like processor and GPU, see the full guide: [Des
 
 ## Other OS
 
-- Windows 10
+- Windows 11
