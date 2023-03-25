@@ -15,8 +15,8 @@ All working. All updates working.
 
 **OpenCore Install Guide**
 
-- [OpenCore 0.8.8](https://github.com/acidanthera/OpenCorePkg/releases)
-- macOS 13.1 Ventura
+- [OpenCore 0.9.0](https://github.com/acidanthera/OpenCorePkg/releases)
+- macOS 13.2.1 Ventura
 - SMBIOS: iMac19,1
 
 ## Install
